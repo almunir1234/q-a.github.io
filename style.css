@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    background: rgb(126, 241, 126);
+}
+body header{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    color: blue;
+}
+
+body form{
+    display: flex;
+    justify-content: center;
+}
